@@ -1,6 +1,18 @@
 # Compiled class file
 *.class
 
+## ignore Intellij artifacts
+.idea/
+*.iml
+
+# ignore Eclipse artifacts
+.settings/
+.classpath
+.project
+
+# ignore Apple artifacts
+.DS_Store
+
 # Log file
 *.log
 
