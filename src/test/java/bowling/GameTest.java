@@ -13,4 +13,11 @@ public class GameTest {
 
         Game game = new Game();
     }
+
+//    @Test
+//    public void rollGutterBallTest() {
+//
+//        Game game = new Game();
+//        game.roll(0);
+//    }
 }
